@@ -18,3 +18,6 @@ Achievement
 
 1. Learned how to use general type and produce general type value ex) even number, number, etc.
 2. Implemented iterator. 
+
+
+<img width="861" alt="screen shot 2018-08-22 at 5 16 42 pm" src="https://user-images.githubusercontent.com/32227575/44493859-3a80e680-a62f-11e8-8900-dcd760776a5e.png">
