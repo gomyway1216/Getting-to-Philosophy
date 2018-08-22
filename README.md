@@ -1,4 +1,4 @@
-Getting to Philosophy
+Getting to Philosophy but actually Psychology
 ==============================
 
 The goal of it is to reach Philosophy. That was working in 2017, but currently (2018) it seems that many things reach to Psychology.
